@@ -26,11 +26,11 @@
 - All ICT software apporved jobs.
 #
 # 📫 How to reach me ...
-- My Github Account Username is : @engrpoama
-- My Linkdin Address is : https://www.linkedin.com/in/engrpoama/
+- My Github Account Username is : @engrproama
+- My Linkdin Address is : https://www.linkedin.com/in/engrproama/
 - Facebook: Kinda dont like much of the platform but still creating a profile for it.
-- Twitter: @engrpoama
-- Email: engrpoama@techie.com or poamaechi@outlook.com
+- Twitter: @engrproama
+- Email: engrpoama@techie.com or engrpoama@gmail.com
 <!---
 poamaechi/poamaechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
