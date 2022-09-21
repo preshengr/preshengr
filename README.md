@@ -13,6 +13,7 @@
 - All Software Development Application
 #
 # 🌱 I’m currently learning ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrproama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - Software Engineering
   - C, C++
 - Java, HTML, REACT JS, PYTHON 
@@ -31,8 +32,6 @@
 - Facebook: Kinda dont like much of the platform but still creating a profile for it.
 - Twitter: @engrproama
 - Email: engrpoama@techie.com or engrpoama@gmail.com
-
-[![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama&show_icons=true&theme=radical)
 <!---
