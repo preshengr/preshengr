@@ -32,7 +32,9 @@
 - Twitter: @engrproama
 - Email: engrpoama@techie.com or engrpoama@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama)](https://github.com/anuraghazra/github-readme-stats)
+[![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama)](https://github.com/anuraghazra/github-readme-stats)
+
+![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama&show_icons=true&theme=radical)
 <!---
 engrproama/engrproama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
