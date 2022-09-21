@@ -14,7 +14,6 @@
 - All Software Development Application
 #
 # 🌱 I’m currently learning ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engrproama&repo=github-readme-stats)](https://github.com/engrproama/github-readme-stats)
 - Software Engineering
   - C, C++
 - Java, HTML, REACT JS, PYTHON 
@@ -33,8 +32,9 @@
 - Facebook: Kinda dont like much of the platform but still creating a profile for it.
 - Twitter: @engrproama
 - Email: engrpoama@techie.com or engrpoama@gmail.com
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrproama&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engrproama&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 engrproama/engrproama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
