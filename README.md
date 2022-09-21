@@ -1,3 +1,4 @@
+![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama&show_icons=true&theme=radical)
 # 👋 Hi
 - My name is Precious Okwukwe Amaechi. A Computer Software Engineer 
   - I am A graduate and a Computer Data Analyst.
@@ -13,7 +14,7 @@
 - All Software Development Application
 #
 # 🌱 I’m currently learning ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrproama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engrproama&repo=github-readme-stats)](https://github.com/engrproama/github-readme-stats)
 - Software Engineering
   - C, C++
 - Java, HTML, REACT JS, PYTHON 
@@ -33,7 +34,7 @@
 - Twitter: @engrproama
 - Email: engrpoama@techie.com or engrpoama@gmail.com
 
-![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engrproama&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 engrproama/engrproama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
