@@ -1,4 +1,4 @@
-![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrproama&show_icons=true&theme=radical)
+![Precious Okwukwe Amaechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshengr&show_icons=true&theme=radical)
 # 👋 Hi
 - My name is Precious Okwukwe Amaechi. A Computer Software Engineer 
   - I am A graduate and a Computer Data Analyst.
@@ -27,15 +27,15 @@
 - All ICT software apporved jobs.
 #
 # 📫 How to reach me ...
-- My Github Account Username is : @engrproama
+- My Github Account Username is : @preshengr
 - My Linkdin Address is : https://www.linkedin.com/in/engrproama/
 - Facebook: Kinda dont like much of the platform but still creating a profile for it.
 - Twitter: @engrproama
-- Email: engrpoama@techie.com or engrpoama@gmail.com
+- Email: preshengr@mail.com or preshengr@gmail.com
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrproama&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preshengr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
-engrproama/engrproama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+preshengr/preshengr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
