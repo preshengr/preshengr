@@ -11,7 +11,8 @@
   - Html 5
 - Linux Security
   - Node and REACT Js.
-- All Software Development Application
+- Machine Language
+- AI
 #
 # 🌱 I’m currently learning ...
 - Software Engineering
