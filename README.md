@@ -28,10 +28,10 @@
 - All ICT software apporved jobs.
 #
 # 📫 How to reach me ...
-- My Github Account Username is : @preshengr
-- My Linkdin Address is : [https://www.linkedin.com/in/engrproama/](https://www.linkedin.com/in/preshengr/)
-- Twitter: @preshengr
-- Email: preshengr@mail.com or preshengr@gmail.com
+- GITHUB : @preshengr
+- LINKEDIN : [https://www.linkedin.com/in/engrproama/](https://www.linkedin.com/in/preshengr/)
+- TWITTER: @preshengr
+- E-MAIL: preshengr@mail.com or preshengr@gmail.com
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preshengr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
