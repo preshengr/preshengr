@@ -15,7 +15,7 @@ I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called 
 - SHELL
 - C 
 
-# I have a fondness for my educational institutions
+# 👋 I have a fondness for my educational institutions
 - @ALX_Africa
 - @Holberton
 - Devsnest and
