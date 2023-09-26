@@ -9,7 +9,11 @@ I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called 
 - Node.js and REACT.js
 
 # 🌱 Currently, I'm Engaged in Learning:
-- HTML, CSS, REACT.js & PYTHON
+- HTML
+- CSS
+- REACT.js
+- SHELL
+- C 
 
 # I have a fondness for my educational institutions
 - @ALX_Africa
