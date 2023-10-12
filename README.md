@@ -11,17 +11,20 @@ I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called 
 # 🌱 Currently, I'm Engaged in Learning:
 - HTML
 - CSS
-- REACT.js
+- REACT
 - SHELL
 - C 
 
 # 👋 I have a fondness for my educational institutions
 - @ALX_Africa
 - @Holberton
-- Devsnest and
-- HNG
+- Devsnest
+- FreeCodeCamp
 
-# 💞️ I'm Open to Collaborations as they are great ways to learn.
+# 💞️ I'm Open to Collaborations
+- Collaborations are great ways to really learn, share ideas and improve on new ideas.
+- I collaborate with alot of people and i have never regretted anyone.
+- Invite me, join me or stay with me, we are here for collaboration.
 
 # 📫 You Can Reach Me Through:
 - GitHub: @preshengr
