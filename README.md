@@ -6,20 +6,23 @@ I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called 
 - BackEnd Engineering (This would come later)
 - Web Development
 - HTML 5
-- Node.js and REACT.js
+- REACT
+- JAVASCRIPT
 
 # 🌱 Currently, I'm Engaged in Learning:
 - HTML
 - CSS
+- JS
 - REACT
 - SHELL
 - C 
 
 # 👋 I have a fondness for my educational institutions
-- @ALX_Africa
-- @Holberton
-- Devsnest
-- FreeCodeCamp
+- [ALX_Africa](https://www.alxafrica.com/)
+- [Holberton School](https://www.alxafrica.com/)
+- [Devsnest](https://devsnest.in)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [W3SC](https://www.w3schools.com/)
 
 # 💞️ I'm Open to Collaborations
 - Collaborations are great ways to really learn, share ideas and improve on new ideas.
