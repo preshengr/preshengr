@@ -27,9 +27,9 @@ I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called 
 - Invite me, join me or stay with me, we are here for collaboration.
 
 # 📫 You Can Reach Me Through:
-- GitHub: [GitHub Profile](https://github.com/preshengr)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/preshengr/)
-- Twitter: [Twitter Handle](https://twitter.com/preshengr)
+- [GitHub Profile](https://github.com/preshengr)
+- [LinkedIn Profile](https://www.linkedin.com/in/preshengr/)
+- [Twitter Handle](https://twitter.com/preshengr)
 - Email: preshengr@mail.com | preshengr@gmail.com
 <!---
 preshengr/preshengr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
