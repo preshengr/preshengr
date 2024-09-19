@@ -1,13 +1,9 @@
 # 👋 Greetings!
-I am Precious Okwukwe Amaechi, a Computer Software Engineer. I am fondly called "PreshEngr"
+I am Precious Amaechi, a Full Stack Software Engineer. I am fondly called "PreshEngr"
 
 # 👀 My Areas of Interest Include:
-- FrontEnd Engineering
-- BackEnd Engineering (This would come later)
-- Web Development
-- HTML 5
-- REACT
-- JAVASCRIPT
+- FrontEnd Development
+- BackEnd Development
 
 # 🌱 Currently, I'm Engaged in Learning:
 - HTML
